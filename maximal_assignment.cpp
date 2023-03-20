@@ -574,7 +574,7 @@ cout<<"Matricea dupa reducerea minimului de pe fiecare linie:"<<endl;
     cout<<endl;
     }
 
-    // ALGORITM PENTRU MINIMUL PE FICARE COLOANA
+    // ALGORITMUL PENTRU MINIMUL PE FIECARE COLOANA
 
     for (int j=0;j<col;j++)
     {
